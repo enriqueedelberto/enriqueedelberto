@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Enrique Reyes</h1>
+ <h1 align="center">Hi 👋, I'm Enrique</h1>
 <h3 align="center">A software engineer, open for learning, javascript enthusiast</h3>
 
 - 🌱 I’m currently learning **CSS grid, Angular**
