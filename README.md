@@ -1,7 +1,8 @@
  <h1 align="center">Hi 👋, I'm Enrique</h1>
-<h3 align="center">A software engineer, open for learning, javascript enthusiast</h3>
+<h3 align="center">A software engineer, open to learn, javascript enthusiast</h3>
 
 - 🌱 I would like to learn **Python, React and Less**
+- 🌱 I currently work with **C# with Net Core, Angular and SQL server**
 
 - 💬 Ask me about **AngularJS, Angular, javascript or typescript. If I don't know, I can look for the answer, there are lots of things to learn.**
 
