@@ -3,7 +3,7 @@
 
 - 🌱 I would like to consolidate my career as senior developer.
 - 🌱 I currently work with **C# with Net Core, Angular and SQL server**
-- 🌱 I would like to learn **Python, React and Less**
+- 🌱 I would like to learn **Redux, React, and Python**
 
 - 💬 Ask me about **AngularJS, Angular, javascript or typescript, if I don't know, I can look for the answer. There are lots of things to learn.**
 
